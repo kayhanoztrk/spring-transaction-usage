@@ -1,4 +1,4 @@
-##Transaction Propagation
+# Transaction Propagation
 
 Transaction propagation attribute allows us to
 control transaction. We can start new transaction or use existing
